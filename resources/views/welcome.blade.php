@@ -12,7 +12,7 @@
   <img class="w-full" src="https://picsum.photos/300/200" alt="Person Image">
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2">John Doe</div>
-    <p class="text-red-700 text-base">
+    <p class="text-gray-700 text-base">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque,
       exercitationem praesentium nihil.
     </p>
